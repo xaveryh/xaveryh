@@ -59,5 +59,11 @@
 ###
 
 <h2 align="left">📚 Certifications</h2>
+  <a href="https://www.credly.com/badges/2ae8d1a5-3d07-480e-85cd-8676b4ab4213/public_url">
+    <img src="src/ccna.png" height="200" alt="ccna icon" />
+  </a>
+  <a href="https://www.credly.com/badges/e27ab7be-b63e-40a3-927f-ef307be839f6/public_url">
+    <img src="src/comptia-network-ce-certification.png" height="200" alt="comptia network plus icon" />
+  </a>
 
 ###
